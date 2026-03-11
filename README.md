@@ -20,6 +20,11 @@ Visual Tutor Live allows a user to upload an image or screenshot and receive:
 - Return a clear explanation
 - Return 3 key takeaways
 
+## Repository structure
+- `app/` application source code
+- `docs/` architecture notes and project documentation
+- `demo/` demo assets and proof of deployment
+
 ## Tech stack
 - Gemini
 - Google Cloud
